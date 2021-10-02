@@ -16,3 +16,5 @@ We further analyse the data for the injuries to predict the particular cause of 
 
 ![image](https://user-images.githubusercontent.com/19433656/135707064-2d8889f5-68b4-4055-ad56-db9295ab2d1c.png)
 
+Thus, we analysed the risks involved in railway accidents and we were able to conclude the reason that causes the railway servents to get injured or killed. 
+
